@@ -1,17 +1,14 @@
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently pursuing a PhD's degree in the Department of Civil and Environmental Engineering (CEE) at Old Dominion University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: l674615414@gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Engineering , Old Dominion University, 2025—Present.\
+B.E., Electronic information engineering, Nanjing University of Posts and Telecommunications, 2020—2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Transportation Safety
 
